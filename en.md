@@ -4,15 +4,11 @@ title: "English"
 permalink: /English/
 ---
 
----
-layout: home
-title: "a03 Portfolio"
----
 
 ![image](https://user-images.githubusercontent.com/20861176/232205747-72523a82-ed82-4cd2-910e-39bad051c750.png)
 
-
 Hello, world!
+
 
 # a03 is...
 - Living in Tokyo.
@@ -29,6 +25,7 @@ Hello, world!
 # LANGUAGE
 - Japanese	Native
 - English	Business proficiency in speaking and writing 
+
 
 # PROFICIENCIES
 - Jamf Pro
@@ -57,6 +54,7 @@ Hello, world!
 - Ruby
 - PHP
 
+
 # INTERVIEW
 - 2022,Voicy [アドカレ'22#02 出してスッキリ！アウトプットの心構え: Minakoさん](https://voicy.jp/channel/2986/427594)
 - 2021,Brighture [「ここはすごいトレーニングジムだな。負荷が頭にも身体にもかかる」と感じました](https://brighture.jp/voice/973)
@@ -67,6 +65,7 @@ Hello, world!
 - note 	[https://note.com/0375](https://note.com/0375)
 - Zenn	[https://zenn.dev/a03](https://zenn.dev/a03)
 - GitHub	[https://github.com/ymgcmnk](https://github.com/ymgcmnk)
+
 
 # PERSONALITY
 16Personalities
@@ -79,10 +78,10 @@ Hello, world!
 - Flexible posture
 - Fun and service minded
 
+
 # FAN FACTS
 - Board game master
 - Cyclist　[September 2019 Bicycle trip to Finland](https://note.com/0375/m/m07007cc8eb9c) 
 - Google Apps Script Instructor for non-programmers
 - Piano Player　[https://youtu.be/vPyZWW53zME](https://youtu.be/vPyZWW53zME)
-
 
