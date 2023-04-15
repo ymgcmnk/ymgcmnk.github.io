@@ -3,7 +3,6 @@ layout: home
 title: "a03 portfolio"
 ---
 
-![a03 face](https://twitter.com/a03/photo)
 ![image](https://user-images.githubusercontent.com/20861176/232205747-72523a82-ed82-4cd2-910e-39bad051c750.png)
 
 
