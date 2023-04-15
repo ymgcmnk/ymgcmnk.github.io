@@ -3,6 +3,9 @@ layout: home
 title: "a03 portfolio"
 ---
 
+
+![a03 face](https://twitter.com/a03/photo)
+
 Hello, world! This is my first blog post.
 
 # 見出し1
@@ -32,7 +35,6 @@ Hello, world! This is my first blog post.
 [Google](https://www.google.com)
 
 
-画像テスト
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png)
+
 
 
