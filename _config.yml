@@ -1,6 +1,6 @@
 theme: minima
 
 header_pages:
-  - about.md
+  - index.md
 
-footer_text: "Copyright © 2023 Your Name. All rights reserved."
+footer_text: "Copyright © 2023 a03/ymgcmnk. All rights reserved."
