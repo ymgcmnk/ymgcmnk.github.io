@@ -15,7 +15,8 @@ title: "a03 Portfolio"
 Hello, world!
 
 # a03 is...
-A highly motivated and experienced information systems professional seeking a challenging role in an organization where I can accelerate  my IT technical skills and support and improve business processes.
+- Living in Tokyo.
+- A highly motivated and experienced information systems professional seeking a challenging role in an organization where I can accelerate  my IT technical skills and support and improve business processes.
 
 
 # CAREER
