@@ -2,6 +2,6 @@ theme: minima
 
 header_pages:
   - index.md
-  - add.md
+  - en.md
 
 footer_text: "Copyright © 2023 a03/ymgcmnk. All rights reserved."
