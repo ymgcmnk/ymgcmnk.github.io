@@ -4,6 +4,8 @@ title: "a03 portfolio"
 ---
 
 ![a03 face](https://twitter.com/a03/photo)
+![image](https://user-images.githubusercontent.com/20861176/232205747-72523a82-ed82-4cd2-910e-39bad051c750.png)
+
 
 Hello, world!
 
@@ -37,13 +39,25 @@ Hello, world!
   - 色彩検定2級
   - レタリング検定2級
 
-# 触ったことがあるもの
+# 触ったことがあるもの一例
 - Jamf Pro
 - Jamf Now
 - Apple Business Manager
 - Google Workspace Business Standard
 - Slack プロプラン
-- 
+- Zoom
+- LastPass
+- DocBase
+- ClickUp
+- Zapier
+- Miro
+- GitHub
+- Windows Server
+- Adobe
+  - Illustrator
+  - Photoshop
+  - Premiere Pro
+- DaVinci Resolve
  
 # Interview
 - 2021年9月　Brighture [「ここはすごいトレーニングジムだな。負荷が頭にも身体にもかかる」と感じました](https://brighture.jp/voice/973)
@@ -62,9 +76,9 @@ Hello, world!
 16Personalitiesによると、
 回答するたびに違うんですが、毎回以下のいずれかになります
 
-- 建築家[“建築家”型の性格 (INTJ)|16Personalities](https://www.16personalities.com/ja/intj型の性格)
-- 主人公[“主人公”型の性格 (ENFJ)|16Personalities](https://www.16personalities.com/ja/enfj型の性格)
-- 提唱者[“提唱者”型の性格 (INFJ)|16Personalities](https://www.16personalities.com/ja/infj型の性格)
+- 建築家[“建築家”型の性格 (INTJ)](https://www.16personalities.com/ja/intj型の性格)
+- 主人公[“主人公”型の性格 (ENFJ)](https://www.16personalities.com/ja/enfj型の性格)
+- 提唱者[“提唱者”型の性格 (INFJ)](https://www.16personalities.com/ja/infj型の性格)
 
 
 ノンプロ研の皆さんが挙げてくださった私の強みを一部抜粋（うれしい）
@@ -87,4 +101,4 @@ Hello, world!
 - 読書、漫画、映画
 - 音楽 
 　　 - 聴く方　アンビエント、オルタナ、ジャズ、なんでも
-  - 弾く方　キーボード、ピアノ、ジャズピアノ（今は全然弾けない） https://youtu.be/vPyZWW53zME
+  - 弾く方　キーボード、ピアノ、ジャズピアノ（今は全然弾けない） [https://youtu.be/vPyZWW53zME](https://youtu.be/vPyZWW53zME)
