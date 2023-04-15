@@ -1,6 +1,4 @@
-# theme: minima
-theme: jekyll-dinky
-
+theme: minima
 
 header_pages:
   - index.md
