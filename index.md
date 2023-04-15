@@ -5,8 +5,8 @@ title: "a03 Portfolio"
 
 ![image](https://user-images.githubusercontent.com/20861176/232205747-72523a82-ed82-4cd2-910e-39bad051c750.png)
 
-
 Hello, world!
+
 
 # 自己紹介
 - 東京在住。
@@ -19,17 +19,17 @@ Hello, world!
 # 職歴
 興味の赴くままに、面白いことやりたい！給料欲しい！休みが欲しい！と思ったらこうなりました。
 ## 経験要約
-- 2007年求人広告の制作業務に従事。
-- 2008年から公益社団法人に14年間勤務。材料工学系のシンポジウムや研究発表大会の企画、運営に携わる。また、社内のIT環境の整備、構築を担い、リモートワークの導入、SlackやGoogle Workspaceの導入、コロナ禍におけるオンラインイベント運営を推進。
+- 求人広告の制作業務に従事。
+- 公益社団法人に14年間勤務。材料工学系のシンポジウムや研究発表大会の企画、運営に携わる。また、社内のIT環境の整備、構築を担い、リモートワークの導入、SlackやGoogle Workspaceの導入、コロナ禍におけるオンラインイベント運営を推進。
 - 2019年外務省にて、期間職員としてG20サミットの運営業務にあたる。
 - 2022年より、100-150人規模のベンチャー〜中小企業の一人目専任情シスとしてシステム整備、運用を行う。
+
 
 ## 副業
 - 2020年-現在、[株式会社プランノーツ](https://plannauts.co.jp/)　ノンプログラマーのためのスキルアップ研究会（ノンプロ研）にて、初心者向けGAS（Google Apps Script）の講座運営、TA（ティーチングアシスタント）を行う。
 - 2023年、某社にて、ポッドキャストの収録、編集など。
   - [ポッドキャスト "IT Admin Radio" をはじめました](https://blog.zunda.co.jp/blog/it-admin-radio) 
   - 聴いてね〜！
-
 
 
 ## 触ったことがあるもの一例
@@ -59,6 +59,7 @@ Hello, world!
 - Ruby
 - PHP
 
+
 # 資格
 - 2021年	10月	実用英語技能検定試験　準1級　合格
 - 2021年	1月	TOEIC 865点　取得
@@ -72,6 +73,7 @@ Hello, world!
   - 色彩検定2級
   - レタリング検定2級
 
+
 # Interview
 - 2022年12月　Voicy [アドカレ'22#02 出してスッキリ！アウトプットの心構え: Minakoさん](https://voicy.jp/channel/2986/427594)
 - 2021年9月　Brighture [「ここはすごいトレーニングジムだな。負荷が頭にも身体にもかかる」と感じました](https://brighture.jp/voice/973)
@@ -82,6 +84,7 @@ Hello, world!
 - note 	[https://note.com/0375](https://note.com/0375)
 - Zenn	[https://zenn.dev/a03](https://zenn.dev/a03)
 - GitHub	[https://github.com/ymgcmnk](https://github.com/ymgcmnk)
+
 
 # Personality 
 頑張りたくないために結果的に頑張るタイプです。
@@ -105,8 +108,6 @@ Hello, world!
 - イケボ（緒方恵美）
 
 
-
-
 # 趣味
 - 自転車
   - ロードバイク
@@ -119,6 +120,7 @@ Hello, world!
 - 音楽
   - 聴く方　アンビエント、オルタナ、ジャズ、なんでも
   - 弾く方　キーボード、ピアノ、ジャズピアノ（今は全然弾けない） [https://youtu.be/vPyZWW53zME](https://youtu.be/vPyZWW53zME)
+
 
 # 悩み
 体重がどえらいことになっています。助けてー。
