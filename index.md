@@ -108,7 +108,7 @@ Hello, world!
 - 読書、漫画、映画
   - [2022年面白かった漫画読書映画振り返り](https://note.com/0375/n/n8187269ef621?magazine_key=mc020e501422b) 
   - [2021年面白かった漫画読書映画振り返り](https://note.com/0375/n/nbd4ce6a70907)
-- 音楽 
+- 音楽
 　　 - 聴く方　アンビエント、オルタナ、ジャズ、なんでも
   - 弾く方　キーボード、ピアノ、ジャズピアノ（今は全然弾けない） [https://youtu.be/vPyZWW53zME](https://youtu.be/vPyZWW53zME)
 
