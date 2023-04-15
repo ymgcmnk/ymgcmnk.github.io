@@ -71,8 +71,7 @@ Hello, world!
 # PERSONALITY
 16Personalities
 - [Architect (INTJ)](https://www.16personalities.com/intj-personality)
-
-
+<br>
 - Honest
 - Hardworking
 - Good verbalization
