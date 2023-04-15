@@ -1,3 +1,7 @@
-test
+---
+layout: page
+title: "About"
+permalink: /about/
+---
 
-# tttt
+ここに「About」ページの内容を記述してください。
