@@ -51,6 +51,13 @@ Hello, world!
   - Photoshop
   - Premiere Pro
 - DaVinci Resolve
+- HTML
+- CSS
+- JavaScript
+- Gooogle Apps Script
+- Python
+- Ruby
+- PHP
 
 # 資格
 - 2021年	10月	実用英語技能検定試験　準1級　合格
@@ -81,6 +88,7 @@ Hello, world!
 
 16Personalitiesによると、
 回答するたびに違うんですが、毎回以下のいずれかになります。
+建築家になることが多いです。
 
 - [“建築家”型の性格 (INTJ)](https://www.16personalities.com/ja/intj型の性格)
 - [“主人公”型の性格 (ENFJ)](https://www.16personalities.com/ja/enfj型の性格)
