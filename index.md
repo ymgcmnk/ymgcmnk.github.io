@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Welcome to My Blog"
+title: "a03 portfolio"
 ---
 
 Hello, world! This is my first blog post.
