@@ -26,6 +26,8 @@ Hello, world!
 ## 副業
 - 2020年-現在、[株式会社プランノーツ](https://plannauts.co.jp/)　ノンプログラマーのためのスキルアップ研究会（ノンプロ研）にて、初心者向けGAS（Google Apps Script）の講座運営、TA（ティーチングアシスタント）を行う。
 - 2023年、某社にて、ポッドキャストの収録、編集など。
+  - [ポッドキャスト "IT Admin Radio" をはじめました](https://blog.zunda.co.jp/blog/it-admin-radio) 
+  - 聴いてね〜！
 
 
 
