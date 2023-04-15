@@ -48,13 +48,13 @@ Hello, world!
 - DaVinci Resolve
 
 # 資格
-- 2021	10		実用英語技能検定試験　準1級　合格			
-- 2021	1		TOEIC 865点　取得			
-- 2019	9		イベント業務管理士　1級　取得			
-- 2015	11		日本商工会議所 簿記検定3級　合格			
-- 2009	11		ITパスポート試験　合格						
-- 2006	7		Microsoft Office Specialist Excel エキスパート 合格			
-						
+- 2021	10	実用英語技能検定試験　準1級　合格
+- 2021	1	TOEIC 865点　取得
+- 2019	9	イベント業務管理士　1級　取得
+- 2015	11	日本商工会議所 簿記検定3級　合格
+- 2009	11	ITパスポート試験　合格			
+- 2006	7	Microsoft Office Specialist Excel エキスパート 合格
+
 - その他、雑多な資格
   - 普通免許（MT）　ペーパードライバーなので運転できません
   - 陶芸士3級
@@ -67,10 +67,10 @@ Hello, world!
 
 
 # SNS・Output
-- Twitter  https://twitter.com/a03
-- note https://note.com/0375
-- Zenn https://zenn.dev/a03
-- GitHub https://github.com/ymgcmnk
+- Twitter	[https://twitter.com/a03](https://twitter.com/a03)
+- note 	[https://note.com/0375](https://note.com/0375)
+- Zenn	[https://zenn.dev/a03](https://zenn.dev/a03)
+- GitHub	[https://github.com/ymgcmnk](https://github.com/ymgcmnk)
 
 # Personality 
 頑張りたくないので頑張るタイプです。
