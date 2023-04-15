@@ -27,10 +27,10 @@ Hello, world!
 
 
 # LANGUAGE
-Japanese	Native
-English	Business proficiency in speaking and writing 
+- Japanese	Native
+- English	Business proficiency in speaking and writing 
 
-## PROFICIENCIES
+# PROFICIENCIES
 - Jamf Pro
 - Jamf Now
 - Apple Business Manager
