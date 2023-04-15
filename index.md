@@ -82,9 +82,9 @@ Hello, world!
 16Personalitiesによると、
 回答するたびに違うんですが、毎回以下のいずれかになります。
 
-- 建築家[“建築家”型の性格 (INTJ)](https://www.16personalities.com/ja/intj型の性格)
-- 主人公[“主人公”型の性格 (ENFJ)](https://www.16personalities.com/ja/enfj型の性格)
-- 提唱者[“提唱者”型の性格 (INFJ)](https://www.16personalities.com/ja/infj型の性格)
+- [“建築家”型の性格 (INTJ)](https://www.16personalities.com/ja/intj型の性格)
+- [“主人公”型の性格 (ENFJ)](https://www.16personalities.com/ja/enfj型の性格)
+- [“提唱者”型の性格 (INFJ)](https://www.16personalities.com/ja/infj型の性格)
 
 
 ノンプロ研の皆さんが挙げてくださった私の強みを一部抜粋（うれしい）。
@@ -109,7 +109,7 @@ Hello, world!
   - [2022年面白かった漫画読書映画振り返り](https://note.com/0375/n/n8187269ef621?magazine_key=mc020e501422b) 
   - [2021年面白かった漫画読書映画振り返り](https://note.com/0375/n/nbd4ce6a70907)
 - 音楽
-　　 - 聴く方　アンビエント、オルタナ、ジャズ、なんでも
+  - 聴く方　アンビエント、オルタナ、ジャズ、なんでも
   - 弾く方　キーボード、ピアノ、ジャズピアノ（今は全然弾けない） [https://youtu.be/vPyZWW53zME](https://youtu.be/vPyZWW53zME)
 
 # 悩み
