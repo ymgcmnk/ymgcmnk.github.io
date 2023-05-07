@@ -75,8 +75,12 @@ Hello, world!
 
 
 # Interview
-- 2022年12月　Voicy [アドカレ'22#02 出してスッキリ！アウトプットの心構え: Minakoさん](https://voicy.jp/channel/2986/427594)
-- 2021年9月　Brighture [「ここはすごいトレーニングジムだな。負荷が頭にも身体にもかかる」と感じました](https://brighture.jp/voice/973)
+- 2023年4-5月　ポッドキャスト
+  - [03 情シスのキャリア、情シス列伝　前編](https://open.spotify.com/episode/0pSb2I97h4gvmi0RIP5lyW?si=pFG1AebzS02Ot66fMT7oSg)
+  - [04 情シスのキャリア、情シス列伝　中編　準備中]([https://open.spotify.com/episode/0pSb2I97h4gvmi0RIP5lyW?si=pFG1AebzS02Ot66fMT7oSg](https://open.spotify.com/show/4tI3E9rr2Q8Jse2SAby9lu))
+  - [05 情シスのキャリア、情シス列伝　後編　準備中]([https://open.spotify.com/episode/0pSb2I97h4gvmi0RIP5lyW?si=pFG1AebzS02Ot66fMT7oSg](https://open.spotify.com/show/4tI3E9rr2Q8Jse2SAby9lu))
+- 2022年12月　Voicy　[アドカレ'22#02 出してスッキリ！アウトプットの心構え: Minakoさん](https://voicy.jp/channel/2986/427594)
+- 2021年9月　Brighture　[「ここはすごいトレーニングジムだな。負荷が頭にも身体にもかかる」と感じました](https://brighture.jp/voice/973)
 
 
 # SNS・Output
