@@ -91,6 +91,9 @@ Hello, world!
   - 1997年頃　漢字検定2級
 
 
+# Presentation
+- [2025/9/6 (土)（予定） ノンプログラマーズ・テックキャンプ2025 ～AIやAppSheet、Excel活用術も学べる！業務改善・DXの祭典～ ](https://nonpro-camp-2025.peatix.com/view)
+
 # Interview
 - 2023年4-5月　ポッドキャスト
   - [03 情シスのキャリア、情シス列伝　前編](https://open.spotify.com/episode/0pSb2I97h4gvmi0RIP5lyW?si=pFG1AebzS02Ot66fMT7oSg)
