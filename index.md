@@ -101,7 +101,7 @@ Hello, world!
 
 
 # SNS・Output
-- Twitter	[https://twitter.com/a03](https://twitter.com/a03)
+- X(Twitter)	[https://twitter.com/a03](https://twitter.com/a03)
 - note 	[https://note.com/0375](https://note.com/0375)
 - Zenn	[https://zenn.dev/a03](https://zenn.dev/a03)
 - GitHub	[https://github.com/ymgcmnk](https://github.com/ymgcmnk)
