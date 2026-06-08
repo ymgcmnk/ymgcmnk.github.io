@@ -101,6 +101,7 @@ Hello, world!
 - 2026/07/12 司会 [ノンプログラマーズ・テクノロジーキャンプ2026　kintone × AI で業務改善を"安全に"乗りこなす ～検索AIと外部連携の実践～](https://nonpro-camp-2026.peatix.com/)
 - 2026/06/12 主催 [第2回 お嬢シスLT会:(株)出前館/(株)zooba/bgrass(株)(WAKE Career)](https://infosys.connpass.com/event/389119/)
 - 2026/01/23 主催 [お嬢シスLT会:(株)出前館/(株)zooba/bgrass(株)(WAKE Career)](https://infosys.connpass.com/event/373874/)
+- 2025/12/10 登壇 [情シスSlack忘年会2025](https://corp-engr.connpass.com/event/372132/) 
 - 2025/11/09 登壇 [挫折から学ぶLT大会 #2 ～ありがとう、過去の自分！～](https://minna-no-monogatari.connpass.com/event/371580/) 
 - 2025/09/06 登壇 [ノンプログラマーズ・テックキャンプ2025「非IT職からのキャリアアップ」成功したノンプログラマー3人の事例を紹介　イベントレポート#1](https://non-programmer.or.jp/blog/202510-camp1/)
 
